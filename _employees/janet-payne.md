@@ -19,7 +19,7 @@ wpcf-email:
 wpcf-phone:
   - (540) 654-1034
 wpcf-office-room-number:
-  - Trinkle Hall Room 227B
+  - Room 227B
 wpcf-username:
   - jpayne
 ---
